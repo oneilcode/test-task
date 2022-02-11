@@ -1,2 +1,2 @@
 # iamcode
-HTML-codinh test (тестовое задание  на позицию HTML-верстальщик)
+HTML-coding test (тестовое задание  на позицию HTML-верстальщик)
